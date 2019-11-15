@@ -12,14 +12,16 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h3 className="App-title">Donna Setiawan</h3>
           <div className="banner-text">
-            <h1>Bold Belserion</h1>
-            <h2>Full Stack Web Developer</h2>
+            <h2>Biodata</h2>
             <hr />
             <p>
-              Developer Mindset | Dasar pemrograman Komputer |HTML5 | CSS3 |
-              JavaScipt | Node.js | Algorithm & Pseudocode | Git | MongoDB |
-              React | React Native
+              Saya adalah seorang Laki yang lahir pada tanggal 25 April 2000.
+              Saya dilahirkan di desa yang asri bagian dari kota yang penuh
+              dengan pesona di Sukoharjo. Sejak lahir dan tinggal di Sukoharjo,
+              saya memulai pendidikan Sekolah Dasar di Sekolah Dasar Negeri
+              Telukan 02.
             </p>
+            <hr />
           </div>
         </header>
       </div>
